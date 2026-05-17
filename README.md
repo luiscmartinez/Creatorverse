@@ -35,6 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+
+https://github.com/user-attachments/assets/9dda146f-a80b-4ba2-8c91-052ac90297df
+
+
 <img width="1126" height="717" alt="Screenshot of my app" src="https://github.com/user-attachments/assets/fe5fa088-7483-4ee6-ab51-486aaeacd196" />
 
 <!-- Replace this with whatever GIF tool you used! -->
