@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/dpr6rZv' title='Screenshot of my app' width='' alt='screenshot of my app' />
+<img width="1126" height="717" alt="Screenshot of my app" src="https://github.com/user-attachments/assets/fe5fa088-7483-4ee6-ab51-486aaeacd196" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
